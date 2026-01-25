@@ -51,3 +51,9 @@ Built with Next.js, Vercel, and Supabase
 
 ## Contact
 - Feel free to reach me via GitHub
+
+---
+
+![Gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gun-stack&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gun-stack&layout=compact&theme=tokyonight)
+
