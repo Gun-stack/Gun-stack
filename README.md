@@ -28,7 +28,7 @@ and turning them into real services.
 ---
 
 ## Side project
-### cup-timer.com
+### [cup-timer.com](https://www.cup-timer.com)
 A pour-over coffee timer with recipes and tasting notes  
 Built with Next.js, Vercel, and Supabase
 
