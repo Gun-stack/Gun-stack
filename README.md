@@ -15,7 +15,7 @@ I am a backend developer focused on data processing and production systems that 
 
 ### [BIM Platform](https://github.com/Gun-stack/bim-platform)
 
-A BIM/FMS prototype for exploring IFC building models and managing facility operations data.
+A demo web app based on my hands-on experience with FMS and MEP workflows. It connects IFC model exploration with facility operations, including MEP tracing and monitoring, asset management, and work orders. It is a portfolio project rather than a production service.
 
 ### [Cup Timer](https://www.cup-timer.com)
 
