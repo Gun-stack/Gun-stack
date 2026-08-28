@@ -1,77 +1,27 @@
-# 👋 Hi, I'm Gun
+# Gun
 
-I work on **GIS data pipelines and operations automation**.  
-I like building reliable batch systems, improving observability,  
-and automating anything that shouldn't be manual.
+## 소개
 
----
+백엔드 개발과 데이터 처리 업무를 경험해 왔습니다.
+운영 환경에서 반복되는 작업을 정리하고, 안정적으로 유지할 수 있는 구조를 만드는 데 관심이 있습니다.
 
-## 🧩 Stack
+## 관심과 경험
 
-### Backend / Data
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+- GIS 데이터 파이프라인과 정기 배치 작업 운영
+- 운영 업무 자동화와 로그 기반 모니터링 개선
+- 공간 및 3D 데이터를 활용한 웹 서비스 개발
 
-### DevOps / Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
+## Projects
 
-### Monitoring / Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+### [BIM Platform](https://github.com/Gun-stack/bim-platform)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+IFC 기반 건물 정보를 탐색하고 시설 운영 데이터를 관리하는 BIM/FMS 프로토타입입니다.
 
----
+### [Cup Timer](https://www.cup-timer.com)
 
-## 🤖 AI / Tooling
-- Claude Code for “vibe coding” (rapid prototyping, refactoring, automation)
-- Interested in AI stacks and agentic workflows for developer productivity
+커피 추출 과정과 레시피를 기록할 수 있는 타이머 웹 서비스입니다.
 
----
+## 주로 사용하는 기술
 
-## 🚀 Featured
-### ☕ [cup-timer.com](https://www.cup-timer.com)
-A pour-over coffee timer with recipes and tasting notes.  
-Built with **Next.js, Vercel, and Supabase**.
-
----
-
-## 🧩 What I do
-- Run scheduled GIS batch pipelines (hourly/daily/weekly) and keep them stable
-- Automate operational workflows with scripts and jobs
-- Improve monitoring and log-based visibility for production services
-
----
-
-## 🧠 Interests
-- GIS / map data pipelines
-- Batch automation (Airflow, Cron, Jobs)
-- DevOps (Docker, Kubernetes/OKD, Jenkins, GitHub Actions)
-- Observability (Elasticsearch, Prometheus, Grafana)
-- 3D GIS / Cesium / WebGL
-- Pour-over coffee ☕
-
----
-
-## 🤝 Collaboration
-I'm interested in collaborating on:
-- GIS / map-related tools
-- data pipeline automation
-- coffee-related or data-driven services
-
----
-
-## 📫 Contact
-Feel free to reach me via GitHub.
+Java, Spring Boot, Python, PostgreSQL, Docker를 주로 사용합니다.
+웹 화면이 필요한 경우 React와 TypeScript를 함께 사용합니다.
